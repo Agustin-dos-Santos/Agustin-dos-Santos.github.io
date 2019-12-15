@@ -11,6 +11,33 @@
 {
     position: relative;
     color: white;
+    text-align: center;
+}
+
+h1
+{
+    font-variant: small-caps;
+    background-color: black;
+    padding: 10px;
+    display: inline-block;
+}
+
+a
+{
+    text-decoration: none;
+    background-color: #0080ff;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 12px;
+}
+
+hr
+{
+    border-width: 5px;
+    border-color:#0080ff;
+    margin: 5px;
+    border-radius: 12px;
 }
 
 #particles-js
