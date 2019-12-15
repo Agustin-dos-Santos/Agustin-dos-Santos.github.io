@@ -41,6 +41,13 @@ hr
     border-radius: 12px;
 }
 
+p
+{
+    background-color: black;
+    padding: 10px;
+    display: inline-block;
+}
+
 #particles-js
 {
     position: fixed;
