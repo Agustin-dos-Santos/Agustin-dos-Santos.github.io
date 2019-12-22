@@ -33,6 +33,15 @@ a
     border-radius: 12px;
 }
 
+a:hover
+{
+    background-color: black;
+    color: #0080ff;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+}
+
 hr
 {
     border-width: 5px;
