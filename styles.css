@@ -58,7 +58,7 @@
     margin: 0px;
     font-family: sans-serif;
     transition-property: box-shadow, background;
-    transition-timing-function: linear;
+    transition-timing-function: ease-in-out;
     transition-duration: 500ms;
 }
 
