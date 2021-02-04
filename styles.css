@@ -135,6 +135,12 @@
 .display-flex
 {
     display: flex;
+    flex-wrap: wrap;
+}
+
+.justify-content-center
+{
+    justify-content: center;
 }
 
 .overflow-y
@@ -186,10 +192,13 @@
     padding: 12px;
     background: var(--main-background-color);/*linear-gradient(75deg, var(--main-background-color) 50%, var(--main-color) 50%);*/
     width: 400px;
+    margin: 20px;
+    /*
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+    */
 
     transition: transform 0.5s/*, background 1.5s*/;
 }
